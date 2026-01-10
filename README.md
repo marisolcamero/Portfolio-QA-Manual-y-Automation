@@ -15,5 +15,7 @@ Simulación de ciclo completo de testing para una plataforma de comercio electr�
 - **[Reporte de Bugs](link):** Capturas de pantalla y descripción técnica de errores reportados en Jira.
 
 ## 📧 Contacto
-- **LinkedIn:** [Tu Link de LinkedIn]
-- **Email:** marisolcamero@hotmail.com
+- **LinkedIn:** www.linkedin.com/in/maría-soledad-camero-aa901876
+
+
+- **Email:** marisolcamero@gmail.com
