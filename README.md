@@ -11,6 +11,7 @@ Simulación de ciclo completo de testing para una plataforma de comercio electr�
 - **Tipos de Testing:** Funcional, Humo (Smoke), Regresión y Exploratorio.
 
 ## 📂 Contenido del Repositorio
+- **[Plan de Pruebas](link):** Escenarios detallados con criterios de aceptación.
 - **[Casos de Prueba](link):** Escenarios detallados con criterios de aceptación.
 - **[Reporte de Bugs](link):** Capturas de pantalla y descripción técnica de errores reportados en Jira.
 
