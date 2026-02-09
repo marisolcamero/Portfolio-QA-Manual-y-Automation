@@ -31,7 +31,11 @@ Media
 🎯 Prioridad  
 Alta
 
----
+🧠 Justificación  
+La severidad es Media porque la funcionalidad de login continúa operativa,
+pero la prioridad es Alta debido a que afecta la experiencia del usuario
+y la correcta comunicación de errores.
 
 📎 Evidencia  
-(Screenshot o descripción de evidencia)
+Durante la ejecución de la prueba el mensaje de error no fue visible
+en el primer intento de login, requiriendo refrescar la página.
