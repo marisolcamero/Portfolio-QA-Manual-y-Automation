@@ -1,22 +1,69 @@
-# 🚀 Portfolio de Aseguramiento de Calidad (QA)
+🚀 Portafolio de Aseguramiento de Calidad (QA)  
+Proyecto de Testing Manual – SauceDemo
 
-¡Bienvenida/o! En este repositorio presento mis habilidades y metodologías aplicadas al testing de software. Mi enfoque combina el rigor técnico del **Desarrollo de Software** con habilidades de comunicación asertiva y resolución de problemas provenientes de mi formación en **Counseling y Coaching**.
+¡Bienvenido/a!  
+En este repositorio presento un proyecto de **Testing Manual** realizado sobre la aplicación web **SauceDemo**, una plataforma de comercio electrónico utilizada ampliamente para prácticas de aseguramiento de calidad.
 
-## 🎯 Proyecto Destacado: E-Commerce Testing
-Simulación de ciclo completo de testing para una plataforma de comercio electrónico.
+Mi enfoque combina **metodologías de testing**, análisis funcional y una fuerte orientación al usuario, apoyada en mis habilidades de comunicación y análisis desarrolladas a partir de mi formación en **Counseling y Coaching**.
 
-### 🛠️ Herramientas y Metodologías
-- **Gestión de Defectos:** Jira (Metodología Ágil/Kanban).
-- **Documentación:** Estrategia de Prueba (Test Plan) y Matrices de Casos de Prueba.
-- **Tipos de Testing:** Funcional, Humo (Smoke), Regresión y Exploratorio.
+🎯 Proyecto: Testing de Plataforma E-commerce – SauceDemo
 
-## 📂 Contenido del Repositorio
-- **[Plan de Pruebas](link):** Escenarios detallados con criterios de aceptación.
-- **[Casos de Prueba](link):** Escenarios detallados con criterios de aceptación.
-- **[Reporte de Bugs](link):** Capturas de pantalla y descripción técnica de errores reportados en Jira.
+Aplicación bajo prueba:  
+🔗 https://www.saucedemo.com/
 
-## 📧 Contacto
-- **LinkedIn:** www.linkedin.com/in/maría-soledad-camero-aa901876
+El proyecto simula un **ciclo completo de pruebas manuales**, abarcando desde la planificación hasta el reporte y seguimiento de defectos.
 
+🧪 Alcance del Testing
 
-- **Email:** marisolcamero@gmail.com
+- Análisis de requerimientos funcionales
+- Diseño de estrategia de pruebas
+- Creación de casos de prueba
+- Ejecución de pruebas funcionales
+- Registro y seguimiento de defectos
+- Retesting y validación de correcciones
+
+🛠️ Herramientas y Metodologías
+
+- **Gestión de Defectos:** Jira  
+- **Metodología:** Ágil / Kanban  
+- **Documentación QA:**  
+  - Plan de Pruebas  
+  - Casos de Prueba  
+  - Reportes de Bugs  
+- **Tipos de Testing:**  
+  - Funcional  
+  - Smoke  
+  - Regresión  
+  - Exploratorio  
+
+📂 Contenido del Repositorio
+
+- 📄 **Plan de Pruebas**  
+  Define el alcance, objetivos, tipos de pruebas, criterios de entrada y salida, y riesgos del proyecto SauceDemo.
+
+- 📋 **Casos de Prueba**  
+  Casos diseñados para validar funcionalidades clave como:
+  - Login
+  - Visualización de productos
+  - Carrito de compras
+  - Checkout
+  - Logout  
+
+- 🐞 **Reporte de Bugs**  
+  Defectos documentados con:
+  - ID
+  - Título
+  - Descripción
+  - Pasos para reproducir
+  - Resultado esperado vs actual
+  - Severidad y prioridad
+  - Evidencia visual
+
+📌 Objetivo del Proyecto
+
+Demostrar mis competencias como **QA Tester Junior**, mi capacidad para diseñar y ejecutar pruebas manuales, documentar defectos de forma clara y comunicar hallazgos dentro de un contexto de trabajo ágil.
+
+📬 Contacto
+
+- 💼 LinkedIn: https://www.linkedin.com/in/mar%C3%ADa-soledad-camero-aa901876/
+- 🌐 Portafolio: https://linktr.ee/MariaSoledadCamero
