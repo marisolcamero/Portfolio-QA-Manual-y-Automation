@@ -855,5 +855,5 @@ Cuando encuentres un bug, documéntalo así:
 
 ---
 
-**Preparado por:** [Tu Nombre]  
+**Preparado por:** Maria Soledad Camero  
 **Última actualización:** Febrero 2026
