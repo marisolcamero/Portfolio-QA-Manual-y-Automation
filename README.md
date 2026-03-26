@@ -32,7 +32,7 @@ El proyecto simula un **ciclo completo de pruebas manuales**, abarcando desde la
   - Reportes de Bugs  
 - **Tipos de Testing:**  
   - Funcional  
-  - Smoke  
+  - Pruebas de humo  
   - Regresión  
   - Exploratorio  
 
