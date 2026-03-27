@@ -61,7 +61,7 @@ El proyecto simula un **ciclo completo de pruebas manuales**, abarcando desde la
     
 - 🚀 **Próximamente**
   - API Testing con Postman
-  - UI Automation con Playwright
+  - UI Automation 
 
 📌 Objetivo del Proyecto
 
